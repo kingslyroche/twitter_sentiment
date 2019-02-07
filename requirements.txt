@@ -3,3 +3,4 @@ tweepy
 pandas
 nltk
 vaderSentiment
+gunicorn
