@@ -2,4 +2,4 @@ flask
 tweepy
 pandas
 nltk
-SentimentIntensityAnalyzer
+vaderSentiment
